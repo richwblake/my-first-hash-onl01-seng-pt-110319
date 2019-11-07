@@ -10,7 +10,9 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
   item_hash = {
-    
+    "whale_bone_corsets" => 5
+    "porcelain" => 2
+    "oil_paintings" => 3
   }
 
 
