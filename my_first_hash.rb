@@ -11,7 +11,7 @@ def shipping_manifest
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
   item_hash = {
     "whale_bone_corsets" => 5,
-    "porcelain" => 2,
+    "porcelain vases" => 2,
     "oil_paintings" => 3
   }
 
